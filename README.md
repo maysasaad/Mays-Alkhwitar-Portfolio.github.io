@@ -33,7 +33,7 @@ IT Support / Field Engineer   (contract)                                        
 
 ### Brands and Product Emotions
 #### Natural Language Processing (NLP): Through this project, I built an NLP model to analyze Twitter sentiments about Apple products, demonstrating the effectiveness of the NLP model in classifying sentiment .The model rated the sentiment based on its contents, either positive,negative, or neutral.
-![image (1).jpg](images/image (1).jpg)
+![image (1).jpg](images/image (1).jpg).
 
 
 
