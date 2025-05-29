@@ -27,35 +27,42 @@ IT Support / Field Engineer   (contract)                                        
 # projects
 ### Predicting Alzheimer's Disease
 #### Deep Learning : Through this project, I built a classifier model to analyze a set of brain MRI Images for detecting Alzheimer's Disease. The model can classify data based on reading the brain MRI Images , demonstrating the effectiveness of the Deep Learning Algorithms.
+
 ![image.jpg](images/image.jpg)
 
-
+[View the project](https://github.com/maysasaad/Alzheimers-Detection)
 
 ### Brands and Product Emotions
 #### Natural Language Processing (NLP): Through this project, I built an NLP model to analyze Twitter sentiments about Apple products, demonstrating the effectiveness of the NLP model in classifying sentiment .The model rated the sentiment based on its contents, either positive,negative, or neutral.
 
 ![image2.jpg](images/image2.jpg).
 
+[View the project](https://github.com/maysasaad/nlp-project)
 
 ### SyriaTel Customer Churn
 #### Machine Learning Models:Through this project, I developed a classification algorithm to predict whether a customer will ("soon") stop doing business with SYRIATEL (a communication company)enabling the company to make data-driven decisions and take proactive measures to reduce the churn rate.
+
 ![image3.png](images/image3.png)
 
+[View the project](https://github.com/maysasaad/classificTION-)
 
 ### Home Sales Prices
 #### Multiple Linear Regression Model Through this project, I developed a pricing algorithm to help real estate agents providing advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount. The main purpose of this algorithm is predictive, meaning that uses multiple linear regression modeling to predict how sales prices in King County increase based on home features.
 
 ![image4.jpg](images/image4.jpg)
 
-
+[View the project](https://github.com/maysasaad/dsc-phase-2-project-v2-3)
 
 ### Box Office Revenues
 #### Exploratory Data Analysis (EDA):The goal of this project is developing a descriptive analysis ,utilized Python to analyze exploratory 1236029 movies from the most popular websites for movie rating and gain insights on the factors contributing to developing a sales strategy and increased box office revenues. .Utilized SQL to extract data from different related tables from the IMDB database .
 
 ![image5.png](images/image5.png)
 
+[View the project](https://github.com/maysasaad/Phase_1_Project)
+
 ### The European Soccer
 #### This project uses SQL queries to extract, clean, and analyze data from the European Soccer Database, aiming to deliver actionable insights for a sports channel's content strategy.
 
-
 ![image6.jpg](images/image6.jpg)
+
+[View the project](https://github.com/maysasaad/The-European-Soccer)
