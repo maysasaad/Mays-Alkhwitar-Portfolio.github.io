@@ -27,7 +27,7 @@ IT Support / Field Engineer   (contract)                                        
 # projects
 ### Predicting Alzheimer's Disease
 #### Deep Learning : Through this project, I built a classifier model to analyze a set of brain MRI Images for detecting Alzheimer's Disease. The model can classify data based on reading the brain MRI Images , demonstrating the effectiveness of the Deep Learning Algorithms.
-![images (1).jpg](images/images(1)jpg)
+![image.jpg](images/imagejpg)
 
 
 
