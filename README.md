@@ -18,7 +18,7 @@ Successfully created various reports and presentations as well as data visualiza
 
 
 ### INSIGHT GLOABLE | HOUSTON,TX 
-IT Support / Field Engineer   (contract)                                                                                                                           8/2024 – 9/2024
+IT Support / Field Engineer   (contract)                                                                                                                           8/2024 – 10/2024
 #### 	Assist with the Fort Bend ISD extensive 1:1 device initiative, which involves distributing approximately 46,000 devices   to students across various campuses. Collaborate with IG Field Engineers and the district's full-time analysts to ensure a smooth and efficient distribution process. 
 #### 	Delivered in-person technical support to end-users, Diagnosed and resolved hardware and software issues, including reimaging and refreshing PCs, decommissioning outdated equipment.
 #### 	Installed, configured, and maintained operating systems, software applications, and drivers, while troubleshooting   network connectivity issues,Performed data backup and recovery operations, ensuring data integrity and security.
