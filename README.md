@@ -39,7 +39,7 @@ IT Support / Field Engineer   (contract)                                        
 
 ### SyriaTel Customer Churn
 #### Machine Learning Models:Through this project, I developed a classification algorithm to predict whether a customer will ("soon") stop doing business with SYRIATEL (a communication company)enabling the company to make data-driven decisions and take proactive measures to reduce the churn rate.
-![telecom churn.png](images/telecom churn.png)
+![image3.png](images/image3.png)
 
 
 ### Home Sales Prices
