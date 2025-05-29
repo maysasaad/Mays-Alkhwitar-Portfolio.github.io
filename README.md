@@ -1,4 +1,3 @@
-# Mays-Alkhwitar-Portfolio.github.io
 # Data Scientist
 ## Technical Skills: Python, SQL, Excel,Power BI
 # Educaion 
