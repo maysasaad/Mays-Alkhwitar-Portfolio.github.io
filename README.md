@@ -33,19 +33,19 @@ IT Support / Field Engineer   (contract)                                        
 
 ### Brands and Product Emotions
 #### Natural Language Processing (NLP): Through this project, I built an NLP model to analyze Twitter sentiments about Apple products, demonstrating the effectiveness of the NLP model in classifying sentiment .The model rated the sentiment based on its contents, either positive,negative, or neutral.
-
+![image (1).jpg](images/image(1).jpg)
 
 
 
 ### SyriaTel Customer Churn
 #### Machine Learning Models:Through this project, I developed a classification algorithm to predict whether a customer will ("soon") stop doing business with SYRIATEL (a communication company)enabling the company to make data-driven decisions and take proactive measures to reduce the churn rate.
-
+![telecom churn (1).png](images/telecom churn(1).png)
 
 
 ### Home Sales Prices
 #### Multiple Linear Regression Model Through this project, I developed a pricing algorithm to help real estate agents providing advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount. The main purpose of this algorithm is predictive, meaning that uses multiple linear regression modeling to predict how sales prices in King County increase based on home features.
 
-
+![images(2).jpg](images/images(2).jpg)
 
 
 
