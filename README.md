@@ -52,9 +52,10 @@ IT Support / Field Engineer   (contract)                                        
 ### Box Office Revenues
 #### Exploratory Data Analysis (EDA):The goal of this project is developing a descriptive analysis ,utilized Python to analyze exploratory 1236029 movies from the most popular websites for movie rating and gain insights on the factors contributing to developing a sales strategy and increased box office revenues. .Utilized SQL to extract data from different related tables from the IMDB database .
 
-![image5.jpg](images/image5.jpg)
+![image5.png](images/image5.png)
 
-### 
+### The European Soccer
+#### This project uses SQL queries to extract, clean, and analyze data from the European Soccer Database, aiming to deliver actionable insights for a sports channel's content strategy.
 
 
 ![image6.jpg](images/image6.jpg)
