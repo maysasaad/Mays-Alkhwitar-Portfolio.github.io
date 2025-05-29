@@ -45,7 +45,7 @@ IT Support / Field Engineer   (contract)                                        
 ### Home Sales Prices
 #### Multiple Linear Regression Model Through this project, I developed a pricing algorithm to help real estate agents providing advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount. The main purpose of this algorithm is predictive, meaning that uses multiple linear regression modeling to predict how sales prices in King County increase based on home features.
 
-![images(2).jpg](images/images(2).jpg)
+![image4.jpg](images/image4.jpg)
 
 
 
