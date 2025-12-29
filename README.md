@@ -8,7 +8,7 @@
             Flatiron School | New York, NY | 2023
             
 # Work Experience
-### MINISTRY OF WATER RESOURCES | Baghdad, Iraq                                                                                                  1/2008 – 6/2021
+### MINISTRY OF WATER RESOURCES | Baghdad, Iraq                                                                                                  1/2008 – 6/2014
 #### Data Analyst/Computer Engineer
 Successfully created various reports and presentations as well as data visualization for the project management leadership regarding sediment removal and erosion control projects. Collaborated with cross-functional teams to conduct exploratory data analysis and statistical analysis—drive impactful business decisions identifying factors influencing sediment buildup and transport using Excel—resulting in a 40% revenue increase and a 30% reduction in costs.
 #### 	Assisted the Finance Department with Salary, Financial Analysis, and reporting—helping reduce process time by 50% 
